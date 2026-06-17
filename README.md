@@ -29,5 +29,5 @@ Building, evaluating, and comparing 7 different machine learning algorithms to f
   6. XGBoost
   7. AdaBoost
 
-## 📁 Project Presentation
+## Project Presentation
 For a comprehensive summary of the analysis, key business insights, and final marketing recommendations, please refer to the **PDF Project Presentation** included in this repository. 
