@@ -14,13 +14,13 @@ This project addresses the challenge a bank faces in selling fixed deposit produ
 
 ## Project Stages
 **Stage 1: Exploratory Data Analysis & Business Insight**
-- Analyzing data distributions, finding hidden patterns, and extracting meaningful business insights from historical customer behavior.
+Analyzing data distributions, finding hidden patterns, and extracting meaningful business insights from historical customer behavior.
 
 **Stage 2: Data Pre-Processing & Data Cleaning**
-- Handling missing values, treating outliers, feature engineering, and preparing the dataset for the machine learning algorithms.
+Handling missing values, treating outliers, feature engineering, and preparing the dataset for the machine learning algorithms.
 
 **Stage 3: Predictive Modeling**
-- Building, evaluating, and comparing 7 different machine learning algorithms to find the best-performing predictive system:
+Building, evaluating, and comparing 7 different machine learning algorithms to find the best-performing predictive system:
   1. Decision Tree
   2. Random Forest
   3. Logistic Regression
